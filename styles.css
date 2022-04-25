@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    text-align: center;
+
+}
+#para1 {
+    color:darkviolet;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.list {
+    color:aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
